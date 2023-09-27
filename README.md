@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a web developer with a passion for creating c
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,js,html,css,java,github,postman,wordpress)](https://skillicons.dev)
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bhuminandan&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bhuminandan&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 ## 🛠 Skills
 - React JS
