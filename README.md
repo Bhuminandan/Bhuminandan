@@ -13,7 +13,11 @@
 I really enjoy making webpages and their components using programming languages. -->
 Welcome to my GitHub profile! I am a web developer with a passion for creating clean, efficient, and user-friendly websites. Skilled in using React JS, Javascript, HTML, CSS (+ Bootstrap, Tailwind CSS), and Java, I am always looking to improve my skills and learn new technologies. From coding and debugging to designing and testing, I love every aspect of the development process. On this profile, you will find a variety of projects that showcase my abilities as a developer.
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,js,html,css,java,github,postman,wordpress)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,js,html,css)](https://skillicons.dev)
+
+[![Backend Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb)](https://skillicons.dev)
+
+[![Other Skills](https://skillicons.dev/icons?i=wordpress,java)](https://skillicons.dev)
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bhuminandan&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
