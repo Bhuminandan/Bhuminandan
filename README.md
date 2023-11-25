@@ -27,9 +27,13 @@ Welcome to my GitHub galaxy! I'm a dedicated code explorer, navigating the vast 
 
 ## 🛠 Skills
 - React JS
+- Vite
 - Tailwind CSS
 - Bootstrap
 - Javascript, HTML, CSS
+- Nodejs
+- Express
+- MongoDB
 - Java
 - Git
 - GitHub
