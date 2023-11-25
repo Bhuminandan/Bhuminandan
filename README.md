@@ -11,7 +11,7 @@
 <!-- I'm a front-end developer.
 
 I really enjoy making webpages and their components using programming languages. -->
-Welcome to my GitHub profile! I am a web developer with a passion for creating clean, efficient, and user-friendly websites. Skilled in using React JS, Javascript, HTML, CSS (+ Bootstrap, Tailwind CSS), and Java, I am always looking to improve my skills and learn new technologies. From coding and debugging to designing and testing, I love every aspect of the development process. On this profile, you will find a variety of projects that showcase my abilities as a developer.
+Welcome to my GitHub galaxy! I'm a dedicated code explorer, navigating the vast realms of MERN stack development. Witness my constellation of contributions, where every commit is a star in the open-source cosmos.
 
 ## Front-End Skills
 [![Frontend Skills](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,js,html,css)](https://skillicons.dev)
