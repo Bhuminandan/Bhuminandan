@@ -11,7 +11,7 @@
 <!-- I'm a front-end developer.
 
 I really enjoy making webpages and their components using programming languages. -->
-Welcome to my GitHub galaxy! I'm a dedicated code explorer, navigating the vast realms of MERN stack development. Witness my constellation of contributions, where every commit is a star in the open-source cosmos.
+Hello, this is BHOOMI, a dedicated software enthusiast.
 
 ## Front-End Skills
 [![Frontend Skills](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,js,html,css)](https://skillicons.dev)
@@ -25,7 +25,7 @@ Welcome to my GitHub galaxy! I'm a dedicated code explorer, navigating the vast 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bhuminandan&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-## 🛠 Skills
+<!--- ## 🛠 Skills
 - React JS
 - Vite
 - Tailwind CSS
@@ -37,14 +37,9 @@ Welcome to my GitHub galaxy! I'm a dedicated code explorer, navigating the vast 
 - Java
 - Git
 - GitHub
-<!--- ReactJS
+ReactJS
 - Figma
 - Canva
-
-
-
-
-
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on making [books](https://github.com/TheMohit2003/Books-Ecommerce) ecommerce [website](https://themohit2003.github.io/Books-Ecommerce/).
 
