@@ -20,7 +20,7 @@ Welcome to my GitHub galaxy! I'm a dedicated code explorer, navigating the vast 
 [![Backend Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb)](https://skillicons.dev)
 
 ## Added Skills
-[![Other Skills](https://skillicons.dev/icons?i=wordpress,java,Ruby,Rails,aws)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=wordpress,java,ruby,rails,aws)](https://skillicons.dev)
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bhuminandan&theme=highcontrast&hide_border=true&border_radius=5)](https://git.io/streak-stats)
