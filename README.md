@@ -17,7 +17,7 @@ Hello, this is BHOOMI, a dedicated software enthusiast.
 [![Frontend Skills](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,js,html,css)](https://skillicons.dev)
 
 ## Back-End Skills
-[![Backend Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,nestjs,postgres)](https://skillicons.dev)
 
 ## Added Skills
 [![Other Skills](https://skillicons.dev/icons?i=wordpress,java,ruby,rails,aws)](https://skillicons.dev)
